@@ -1,16 +1,18 @@
 ## Hi there 👋 I'm [Imad Lallali](https://linkedin.com/in/imadlallali)  
   
-Senior Software Engineering Student @ KSU aiming for internships  
+I'm currently exploring the world of web design & development with a focus on modern front-end technologies. I’m passionate about building sleek, efficient, and dynamic user interfaces. My main tech stack includes:
 
-Working on web design & development
-  
-Currently learning about ML & DL  
-  
-My main stack is React, Typescript, Tailwind, Shadcn and Framer motion.  
+* React | Typescript | Tailwind CSS | Shadcn | Framer Motion
 
-Open to collaboration and new challenges!
+My Areas of Interest:
 
-Check my projects below
+* Artificial Intelligence (AI)
+
+* User Experience & HCI
+
+I am always looking for opportunities to apply my skills in web development and AI while continuously learning new technologies. I'm eager to collaborate on projects and face new challenges that help me grow.
+
+📫 Reach me at [imadlallali101@gmail.com](mailto:imadlallali101@gmail.com) 
 <!--
 **imadlallali/imadlallali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
