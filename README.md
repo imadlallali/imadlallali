@@ -2,7 +2,7 @@
   
 I'm currently exploring the world of web design & development with a focus on modern front-end technologies. I’m passionate about building sleek, efficient, and dynamic user interfaces. My main tech stack includes:
 
-* React | Typescript | Tailwind CSS | Shadcn | Framer Motion
+* React | Javascript | Tailwind CSS | Shadcn | Framer Motion
 
 My Areas of Interest:
 
