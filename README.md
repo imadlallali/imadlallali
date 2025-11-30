@@ -4,12 +4,6 @@ I'm currently exploring the world of web design & development with a focus on mo
 
 * React | Javascript | Tailwind CSS | Shadcn | Framer Motion
 
-My Areas of Interest:
-
-* Artificial Intelligence (AI)
-
-* User Experience & HCI
-
 I am always looking for opportunities to apply my skills in web development and AI while continuously learning new technologies. I'm eager to collaborate on projects and face new challenges that help me grow.
 
 📫 Reach me at [imadlallali101@gmail.com](mailto:imadlallali101@gmail.com) 
