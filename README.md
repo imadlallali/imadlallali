@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm [Imad Lallali](https://linkedin.com/in/imadlallali)  
   
-I'm currently exploring the world of web design & development with a focus on modern front-end technologies. I’m passionate about building sleek, efficient, and dynamic user interfaces. My main tech stack includes:
+I'm currently exploring the world of web design & development with a focus on modern front-end technologies. I’m passionate about web development, DevOps, and software architecture, with a curiosity for best practices like TDD, DDD, and clean architecture.. My main tech stack includes:
 
 * React | Javascript | Tailwind CSS | Shadcn | Framer Motion
 
