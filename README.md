@@ -2,7 +2,7 @@
   
 I'm currently exploring the world of web design & development with a focus on modern front-end technologies. I’m passionate about web development, DevOps, and software architecture, with a curiosity for best practices like TDD, DDD, and clean architecture.. My main tech stack includes:
 
-* React | Javascript | Tailwind CSS | Shadcn | Framer Motion
+* React | Next.js | Javascript | Tailwind CSS | Shadcn | Framer Motion
 
 I am always looking for opportunities to apply my skills in web development and AI while continuously learning new technologies. I'm eager to collaborate on projects and face new challenges that help me grow.
 
